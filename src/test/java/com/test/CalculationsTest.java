@@ -13,7 +13,7 @@ public class CalculationsTest {
 	@Test
 	public void testAdd() {
 		//fail("Not yet implemented"); // TODO
-		assertEquals(50, calc.add(25, 25));
+		assertEquals(48, calc.add(25, 25));
 	}
 	
 	// Test case for double value.
